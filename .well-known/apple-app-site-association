@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["73SSFVPVSK.com.brandomadden.podolski"],
+        "components": [
+          { "/": "/fantasy-fussball/join/*", "comment": "Fantasy Fussball league invites" },
+          { "/": "/fantasy-fussball/join", "comment": "The same without the slash" }
+        ]
+      }
+    ]
+  }
+}

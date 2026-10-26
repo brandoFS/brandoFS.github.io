@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brandomadden.podolski",
+      "sha256_cert_fingerprints": [
+        "44:A4:33:F2:4D:AF:B6:79:B3:87:FA:3D:9C:AF:0E:7F:C8:A2:81:35:8A:68:83:A7:70:2A:04:76:59:D6:1F:B9",
+        "E0:10:3B:B9:2A:74:10:B2:B6:04:10:21:1E:86:18:F7:DC:71:4F:73:B2:C1:87:C7:40:A4:B9:8A:0C:54:67:44"
+      ]
+    }
+  }
+]
